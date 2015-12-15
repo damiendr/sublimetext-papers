@@ -2,7 +2,9 @@
 
 # Papers citations in Sublime Text
 
-A Sublime Text 3 plugin to browse, cite and open papers from Mekentosj's [Papers 2](http://papersapp.com/). Similar to Paper's *Citations* feature, but also lets you open PDFs directly from the text editor and read from a shared database (eg. when sharing your Mac's Papers database with a Linux computer via Dropbox). It could also be extended to support other reference managers.
+A Sublime Text 3 plugin to browse, cite and open papers from Mekentosj's [Papers 2](http://papersapp.com/).
+
+It is similar to Paper's *Citations* feature, but cross-platform (eg. when sharing your Mac's Papers database with a Linux computer via Dropbox) and also lets you open PDFs directly from the text editor.
 
 ![](anim.gif)
 
