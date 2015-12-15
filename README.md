@@ -2,11 +2,11 @@
 
 # Papers citations in Sublime Text
 
-A Sublime Text 3 plugin to navigate, cite and open papers from Mekentosj's Papers 2
+A Sublime Text 3 plugin to navigate, cite and open papers from Mekentosj's [Papers 2](http://papersapp.com/)
 
 ![](anim.gif)
 
-Installation is currently a bit involved, see the instructions in the main script.
+Installation is currently a bit involved, see the instructions in the [main script](blob/master/citations.py).
 
 ## TODO
 
